@@ -20,15 +20,15 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
+//  * @project_name : Gaming Manna
+//  * @author : Manna
+//  * @youtube : https://youtube.com/@gaming_manna?si=V3dBvDBgNI7fknyQ
 //  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
+//base by Gaming Manaa
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +94769767424
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
 //   * Created By Github: manulofficial7.
 //   * Credit To Manul Official
